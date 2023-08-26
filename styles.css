@@ -1,0 +1,30 @@
+a
+{
+    text-decoration: none;
+    color:black;
+    font-weight:bold;
+}
+
+@media (max-width: 576px) {
+    .hidden-on-mobile {
+      display: none;
+      /* Add any other styles you want */
+    }
+  }
+
+  .section5
+  {
+    font-weight: bold;
+    color:white;
+  }
+
+  #footerpara
+  {
+    font-size: 13px;
+  }
+  #door{
+    color: #f94a3d; font-weight: bold;
+  }
+  #fast_food{
+    text-decoration: underline; color:#f94a3d
+  }
